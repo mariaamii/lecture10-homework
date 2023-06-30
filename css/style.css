@@ -21,7 +21,7 @@ header{
 nav{
      
 }
- ul {
+ nav-ul {
     width: 500px    ;
     display: flex;
     flex-direction: row;
@@ -33,6 +33,10 @@ nav{
     color: #636060;
     font-size: 17px;
     font-family: Helvetica;
+ }
+
+ .fa-bars{
+    display: none;
  }
 
  /* section1 */
